@@ -1,0 +1,8 @@
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/lib.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/localSearchEngine.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/lib_autogen.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/CMakeFiles/localSearchEngine_autogen.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/_deps/json-build/CMakeFiles/edit_cache.dir
+C:/Users/mark/Desktop/local_search_engine/cmake-build-debug/_deps/json-build/CMakeFiles/rebuild_cache.dir

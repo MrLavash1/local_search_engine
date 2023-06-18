@@ -1,0 +1,14 @@
+{
+  "config": {
+    "name": "localSearchEngine",
+    "version": "1.0.1",
+    "max_responses": 5
+  },
+  "files": [
+    "../json/resources/file001.txt",
+    "../json/resources/file002.txt",
+    "../json/resources/file003.txt",
+    "../json/resources/file004.txt",
+    "../json/resources/file005.txt"
+  ]
+}
