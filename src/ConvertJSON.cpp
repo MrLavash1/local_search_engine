@@ -13,9 +13,9 @@ namespace version {
     }
 }
 
-std::vector<std::string> ConverterJSON::GetTextDocuments()
+std::vector<std::string> ConverterJSON::GetTextDocuments(const std::string &fileName)
 {
-    std::ifstream config_FILE("../json/config.json");
+    std::ifstream config_FILE(fileName);
     if (!config_FILE.is_open()) throw ConfigFileMissing_Exception();
 
     nlohmann::json json_data;
