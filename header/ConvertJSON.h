@@ -1,7 +1,7 @@
 /**
  * @mainpage Local Search Engine
  *
- * @author
+ * @author Mark
  *
  * @section intro_sec Введение
  *
@@ -116,7 +116,7 @@ public:
 * Метод получения содержимого файлов
 * @return Возвращает список с содержимым файлов перечисленных * в config.json
 */
-    std::vector<std::string> GetTextDocuments();
+    std::vector<std::string> GetTextDocuments(const std::string& fileName);
 
     /**
 * Метод считывает поле max_responses для определения предельного * количества ответов на один запрос
